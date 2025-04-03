@@ -4,7 +4,7 @@ import Capsule from './capsule.svg'
 import DailyForm from './DailyForm'
 
 const App = () => {
-  const name = 'dfddfdf'
+  const name = 'jhj'
 
   return (
     <>
